@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'liloex'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E8BB0B781FDF481CACA23A6F020FEC89 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B6C68D3E99D4463E88E6F30C1D1603BA }}
           package: .
